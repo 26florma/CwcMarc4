@@ -10,6 +10,14 @@ prototype-1/[Bb]uilds/
 prototype-1/[Ll]ogs/
 prototype-1/[Uu]ser[Ss]ettings/
 
+Prototype2/[Ll]ibrary/
+Prototype2/[Tt]emp/
+Prototype2/[Oo]bj/
+Prototype2/[Bb]uild/
+Prototype2/[Bb]uilds/
+Prototype2/[Ll]ogs/
+Prototype2/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
